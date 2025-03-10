@@ -16,7 +16,6 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - 🔭 I’m working as a Software Engineer and contributing to my own personal projects.
 - 🌱 Exploring Quantitative Finance & Algorithmic Trading.
-- ⚡ In my free time I solve problems on Kaagle and read tech articles.
 - 📫 How to reach me: &nbsp; [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/eaglemann)
 
 ---
